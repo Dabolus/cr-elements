@@ -1,0 +1,26 @@
+{
+  "name": "cr-elements",
+  "version": "2.0.0",
+  "homepage": "https://github.com/Dabolus/cr-elements",
+  "authors": [
+    "Dabolus"
+  ],
+  "description": "The Clash Royale elements are a set of UI components designed to implement Clash Royale's design.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "clash",
+    "royale",
+    "element-collection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Dabolus/cr-elements.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cr-fonts": "Dabolus/cr-fonts#*",
+    "cr-button": "Dabolus/cr-button#*"
+  },
+  "main": "cr-elements.html"
+}
