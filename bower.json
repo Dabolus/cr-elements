@@ -20,7 +20,8 @@
   "license": "MIT",
   "dependencies": {
     "cr-fonts": "Dabolus/cr-fonts#*",
-    "cr-button": "Dabolus/cr-button#*"
+    "cr-button": "Dabolus/cr-button#*",
+    "cr-card": "Dabolus/cr-card#*"
   },
   "main": "cr-elements.html"
 }
