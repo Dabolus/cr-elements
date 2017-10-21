@@ -21,7 +21,8 @@
   "dependencies": {
     "cr-fonts": "Dabolus/cr-fonts#*",
     "cr-button": "Dabolus/cr-button#*",
-    "cr-card": "Dabolus/cr-card#*"
+    "cr-card": "Dabolus/cr-card#*",
+    "cr-toast": "Dabolus/cr-toast#*"
   },
   "main": "cr-elements.html"
 }
